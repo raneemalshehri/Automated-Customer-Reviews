@@ -39,7 +39,3 @@ cd code
 Execute the following command to start the Streamlit app:
 
 streamlit run streamlit_app.py
-
-*Additional Information*
-
-For any issues or contributions, please open an issue or a pull request in this repository.
