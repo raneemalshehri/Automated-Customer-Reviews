@@ -20,17 +20,22 @@ Main Notebook: https://drive.google.com/file/d/16TzWneDBwoEh2FnWshYDf_UrHuxp8vzT
 
 The deployment is done using Streamlit. Follow these steps to run the application for the classification task:
 
-1. Install Streamlit 
+1. Install Streamlit
+   
 Make sure you have Streamlit installed. If it is not installed, you can do so using pip:
 
 pip install streamlit
 
-3. Navigate to the Code Directory
+
+2. Navigate to the Code Directory
+   
 Open your terminal and change the directory to the folder containing the Streamlit app:
 
 cd code
 
+
 3.Run the Streamlit Application
+
 Execute the following command to start the Streamlit app:
 
 streamlit run streamlit_app.py
