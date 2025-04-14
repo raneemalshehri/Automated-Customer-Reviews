@@ -39,3 +39,8 @@ cd code
 Execute the following command to start the Streamlit app:
 
 streamlit run streamlit_app.py
+
+# Presentation link:
+https://www.canva.com/design/DAGkjZhdVGg/XD-Y7Ua74oZ8rLBPaw5bCg/view?utm_content=DAGkjZhdVGg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7d1140088c
+
+
